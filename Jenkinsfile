@@ -55,8 +55,6 @@ pipeline {
                 echo "Commit message does not contain 'release:', skipping build. "
                 // 如果需要，添加任何需要执行的步骤
             }
-
-            
         }
     }
 }
